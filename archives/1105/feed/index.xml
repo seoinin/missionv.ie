@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Tutorial No. 5: How to Copy or Clone Objects in MissionV</title>
+	<atom:link href="/archives/1105/feed" rel="self" type="application/rss+xml" />
+	<link>/archives/1105</link>
+	<description>Immersive Learning Experiences</description>
+	<lastBuildDate>Fri, 20 Jul 2012 09:49:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: admin</title>
+		<link>/archives/1105#comment-167</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2011 07:23:04 +0000</pubDate>
+		<guid isPermaLink="false">http://missionv.ie/?p=1105#comment-167</guid>
+		<description><![CDATA[Sorry Ener, we&#039;re still figuring out how to use Wordpress. You&#039;ll find the tutorial by following the Training menu at top -&gt; Video Tutorials.
+
+Thanks for stopping by :-)]]></description>
+		<content:encoded><![CDATA[<p>Sorry Ener, we&#8217;re still figuring out how to use WordPress. You&#8217;ll find the tutorial by following the Training menu at top -> Video Tutorials.</p>
+<p>Thanks for stopping by 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ener Hax</title>
+		<link>/archives/1105#comment-166</link>
+		<dc:creator><![CDATA[Ener Hax]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2011 01:24:05 +0000</pubDate>
+		<guid isPermaLink="false">http://missionv.ie/?p=1105#comment-166</guid>
+		<description><![CDATA[where is the tutorial?  =\]]></description>
+		<content:encoded><![CDATA[<p>where is the tutorial?  =\</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

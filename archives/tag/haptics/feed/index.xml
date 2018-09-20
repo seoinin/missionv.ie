@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Haptics &#8211; MissionV</title>
+	<atom:link href="/archives/tag/haptics/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Immersive Learning Experiences</description>
+	<lastBuildDate>Wed, 13 Jun 2018 12:12:54 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>A touch of class</title>
+		<link>/archives/1871</link>
+		<pubDate>Sat, 09 Nov 2013 11:58:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Haptics]]></category>
+		<category><![CDATA[Virtual Reality]]></category>
+
+		<guid isPermaLink="false">http://missionv.ie/?p=1871</guid>
+		<description><![CDATA[We&#8217;re in danger of becoming a Kickstarter news site here but it&#8217;s where most of the really interesting new projects in virtual reality are making their public debuts. We&#8217;ve written quite a bit about the visual side of VR but just as important is the more &#8216;touchy feely&#8217; side, or rather Haptics.<br />
+In technology terms haptics is a tactile feedback technology which takes advantage of the sense of touch by applying forces, vibrations, or motions to the user. I remember ...]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;re in danger of becoming a Kickstarter news site here but it&#8217;s where most of the really interesting new projects in virtual reality are making their public debuts. We&#8217;ve written quite a bit about the visual side of VR but just as important is the more &#8216;touchy feely&#8217; side, or rather Haptics.</p>
+<p><a href="http://missionv.ie/archives/1871/313px-n64-rumble-pak" rel="attachment wp-att-1872"><img class="alignleft size-full wp-image-1872" title="313px-N64-Rumble-Pak" src="http://missionv.ie/wp-content/uploads/313px-N64-Rumble-Pak.jpg" alt="" width="313" height="240" srcset="/wp-content/uploads/313px-N64-Rumble-Pak.jpg 313w, /wp-content/uploads/313px-N64-Rumble-Pak-300x230.jpg 300w" sizes="(max-width: 313px) 100vw, 313px" /></a>In technology terms haptics is a tactile feedback technology which takes advantage of the sense of touch by applying forces, vibrations, or motions to the user. I remember when I bought my first games console in 1996 and experienced the <a href="http://en.wikipedia.org/wiki/Rumble_Pak">Rumble Pak</a> on the Nintendo 64 controller for the first time when playing GoldenEye 007. It was an extraordinary sensation to feel force feedback when firing a weapon, regardless of how primitive it was.</p>
+<p>But the <a href="http://www.kickstarter.com/projects/tacticalhaptics/reactive-griptm-touch-feedback-for-vr-and-video-ga">Reactive Grip<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> – Touch Feedback for VR &amp; Video Games</a> promises to deliver an entirely more realistic experience. <em>&#8220;Tactical Haptics aims to bring a revolutionary new touch feedback technology to virtual reality and video games that blows the doors off traditional &#8220;rumble&#8221; vibration feedback. Reactive Grip touch feedback works by mimicking the friction and shear forces that we feel in the real world when holding an object or touching a surface. This is accomplished by measuring the movements of the player’s hand and actuating small sliding plates in the grip of the controller to recreate the friction and shear forces you expect when holding an actual object such as a sword, slingshot, gun, or fishing rod. We call it Reactive Grip feedback because it reacts to your actions and motions in the virtual world.&#8221;</em></p>
+<p>I can&#8217;t wait to get my hands on this technology (no pun intended).<br />
+<iframe width="640" height="480" src="http://www.kickstarter.com/projects/tacticalhaptics/reactive-griptm-touch-feedback-for-vr-and-video-ga/widget/video.html" frameborder="0" scrolling="no"> </iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

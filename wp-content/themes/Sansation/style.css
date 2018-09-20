@@ -1,0 +1,13 @@
+/*
+Theme Name: Sansation
+Theme URI: http://themes.5-squared.com/sansation
+Description: Powerful and Professional Wordpress Theme
+Version: 1.8
+Author: 5-squared
+Author URI: http://themeforest.net/user/FiveSquared
+*/
+
+@import "/wp-content/themes/Sansation/css/cool_blue.css";
+@import "/wp-content/themes/Sansation/css/prettyPhoto.css";
+
+#vertical_nav .sister-pages {margin:0 !important;padding:0 !important;}
